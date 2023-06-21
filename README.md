@@ -42,7 +42,7 @@ In **Post** we have five fields :
 ## Description of the application features :
 
 * open Postman
-* to create a profile you should go to the page *http://localhost:8080/profiles*, choose a POST request and create a profile by entering data in the JSON type (the Id of the profile will be created automatically), for example :
+* to create a profile you should go to the page *http://localhost:8080/profiles*, choose a POST request and create a profile by entering data in the JSON type (the id of the profile will be created automatically), for example :
 
   ````
   {
@@ -65,7 +65,7 @@ In **Post** we have five fields :
     "location":"USA",
     "age":"44"
   }
-* to create a post you should go to the page *http://localhost:8080/posts*, choose a POST request and create a post by entering data in the JSON type (the Id of the post will be created automatically), for example :
+* to create a post you should go to the page *http://localhost:8080/posts*, choose a POST request and create a post by entering data in the JSON type (the id of the post will be created automatically), for example :
 
   ````
   {
